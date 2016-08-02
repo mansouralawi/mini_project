@@ -44,7 +44,7 @@
     <Button
         android:layout_width="@dimen/abc_search_view_text_min_width"
         android:layout_height="wrap_content"
-        android:text="LOG IN"
+        android:text="LOG In"
         android:id="@+id/button"
         android:layout_marginBottom="34dp"
         android:layout_above="@+id/button2"
